@@ -1,0 +1,299 @@
+.col-custom-nav {
+
+  background-color: #0dba4b;
+}
+.navbar-brand {
+
+  box-shadow: #fff;
+}
+
+.col-custom-img {
+
+  border: 1px solid #fff;
+  background-color: #fff;
+  border-radius: 22px;
+  padding-right: 2px;
+}
+
+#navbarSupportedContent > ul > li {
+
+  color: #fff;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.col-custom-container {
+
+  margin-top: 2px;
+}
+
+.col-custom-topnav > .nav-item  {
+  color: #fff;
+  /* background-color: #fff; */
+  border-radius: 22px;
+  margin-left: 16px;
+  font-weight: bold;
+  
+}
+
+.nav-item:hover {
+  background-color: #fff;
+  animation-delay: 8s;
+}
+
+/* special offers */
+.d-blockspecial {
+  background-image: url("https://img.freepik.com/free-vector/buy-one-get-one-free-shopping-offer-design_1017-34223.jpg?w=740&t=st=1704386952~exp=1704387552~hmac=ec8c12193559dbbc2943f542f9c237079521f63994aded018281db71a5485484");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+  height: 400px;
+}
+.specialTitle {
+  
+  margin-left: 160px;
+  margin-top: 2px;
+  padding-top: 60px;
+  padding-bottom: 20px;
+  width: 800px;
+  color: #0dba4b;
+}
+.specialPera {
+  margin-left: 160px;
+  margin-top: 10px;
+  width: 800px;
+  text-align: justify;
+  font-weight: bold;
+}
+
+.specadd {
+  margin-top: 30px;
+  width: 800px;
+  text-align: justify;
+}
+
+/* trending */
+
+.d-blockTrend {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  /* gap: 1rem; */
+  height: 400px;
+}
+.learn {
+  margin: 10px;
+  height: 300px;
+}
+.learn:hover {
+  height: 360px;
+  box-shadow: 0 0 16px #0dba4b;
+}
+.logos {
+  margin: 6px;
+  height: 30px;
+}
+.logos:hover {
+  box-shadow: 0 0 16px #0dba4b;
+}
+/* refer and earn */
+.d-blockrefer {
+
+  background-image: url("https://www.guvi.in/web-build/images/banner-img-800w.acfa46f2f4c535779cdb26ac631549d8.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+  height: 400px;
+}
+
+.referTitle {
+
+  margin-left: 160px;
+  margin-top: 2px;
+  padding-top: 60px;
+  padding-bottom: 20px;
+  width: 800px;
+  
+}
+.referPera {
+
+  margin-left: 160px;
+  margin-top: 10px;
+  width: 800px;
+  text-align: justify;
+  font-weight: bold;
+
+}
+.refers1{
+
+  margin-top: 30px;
+  width: 800px;
+  text-align: justify;
+}
+.refsign {
+  color: #0dba4b;
+  font-stretch: expanded;
+  font-size: 40px;
+}
+.claim {
+  color: #0dba4b;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+a:hover {
+
+  text-decoration: none;
+}
+/* top image */
+.d-block {
+  margin-top: 2px;
+  height: 400px;
+}
+
+/* fullstack Developer */
+
+.d-blockfull {
+  background-image: url('https://www.marble.co.uk/wp-content/uploads/2019/08/detail-1-498x280.jpg');
+  height: 400px;
+  background-color: linear-gradient(45deg, rgb(8, 168, 2), rgb(231, 227, 227));
+}
+
+.fullstackTitle, .dataTitle {
+  margin-left: 160px;
+  margin-top: 2px;
+  padding-top: 60px;
+  padding-bottom: 20px;
+  width: 800px;
+  /* background-color: orange; */
+}
+
+.fullstackPera, .dataPera {
+  margin-left: 160px;
+  margin-top: 20px;
+  width: 800px;
+  text-align: justify;
+}
+.fullstackPera1, .dataPera1 {
+  
+  margin-top: 30px;
+  width: 800px;
+  text-align: justify;
+}
+
+
+
+/* navbar center */
+
+.middle-navbar {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-self: baseline;
+  margin-top: 2px;
+  background-color: #0dba4b;
+  vertical-align: middle;
+   transition: 0.7s;
+   text-decoration: none;
+}
+
+.middle-navbar:hover {
+
+  border-bottom: 3px #fff;
+  background-color: #0dba4b;
+  opacity: 0.9;
+}
+
+.col-custom-midnav  {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  /* background-color: #0dba4b; */
+  gap: 5rem;
+  text-decoration: none;
+  font-weight: bold;
+  list-style: none;
+  margin-top: 8px;
+}
+
+#midLink {
+  text-decoration: none;
+}
+
+.midLink {
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  list-style: none;
+  padding: 8px 0px;
+
+}
+
+.midLink:hover{
+
+  color: #fff;
+  list-style: none;
+  text-decoration: none;
+}
+.navlink {
+
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  text-decoration: none;
+}
+
+.navlink:hover {
+  text-decoration: none;
+  color: #fff;
+  border-bottom: 2px solid #fff;
+}
+
+/* all related paths */
+
+.display {
+
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 18rem;
+  height: 360px;
+}
+
+.card-body {
+  /* background-color: #0dba4b; */
+  padding-top: 3px;
+  
+}
+
+.card:hover {
+  box-shadow: 0 0 22px #0dba4b;
+}
+.card-img-top {
+  margin-top: 2px;
+  width: 17rem;
+}
+
+.card-text {
+  margin-bottom: 2px;
+}
+
+.link-success {
+  color: #0dba4b;
+  margin-top: 0;
+  padding-top: 2px;
+}
+
+.link-success:hover {
+  color: #0dba4b;
+  font-weight: bold;
+}
