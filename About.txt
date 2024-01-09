@@ -1,0 +1,10 @@
+Dear FSD Team,
+Please note on this task I am using Routers and Router as per task instructoin.
+This will help to rendering the page with smooth, if we click Home, special offers, 
+trending courses, refer & earn, Hacked kids on top nav bar. the page will shown with 
+the respective url path like /home, /special, /trending, /refer, /hacker.
+
+As well mid nav bar ALL, FULL STACK DEVELOPMENT, DATA SCIENCE, CYBER SECRITY, CAREER.
+
+Kindly note this is just for task.
+Thank you for reading this file and seeing the code and deployed webpage.
